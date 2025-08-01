@@ -1,14 +1,14 @@
 const animals = [
-  { name: "Chidiya", canFly: true },
-  { name: "Kauwa", canFly: true },
-  { name: "Billi", canFly: false },
-  { name: "Kutta", canFly: false },
-  { name: "Murgi", canFly: true },
-  { name: "Hathi", canFly: false },
-  { name: "Ullu", canFly: true },
-  { name: "Gaay", canFly: false },
-  { name: "Tota", canFly: true },
-  { name: "Bakri", canFly: false },
+  { name: "Sparrow", canFly: true },
+  { name: "Crow", canFly: true },
+  { name: "Cat", canFly: false },
+  { name: "Dog", canFly: false },
+  { name: "Hen", canFly: true },
+  { name: "Elephant", canFly: false },
+  { name: "Owl", canFly: true },
+  { name: "Cow", canFly: false },
+  { name: "Parrot", canFly: true },
+  { name: "Goat", canFly: false },
 ];
 
 export default animals;
